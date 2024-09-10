@@ -1,2 +1,2 @@
 # JavaStreams
-Some important java stream Questions to pracitce 
+Some important java stream Questions to pracitice 
